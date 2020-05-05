@@ -5,6 +5,7 @@ import com.poc1.sample.Employee;
 public class Runner {
 
     public static void main(String[] args) {
+	error;
         Employee emp = new Employee();
         emp.name = "Sabari";
         emp.details = "none";
